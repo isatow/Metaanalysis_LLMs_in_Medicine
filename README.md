@@ -55,5 +55,3 @@ The primary analyses were conducted using R 4.5.0 and the `metafor` and `clubSan
 ## Citation
 
 If you use the data or code from this repository, please cite the associated manuscript.
-
-Citation details will be added upon publication.
